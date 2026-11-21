@@ -1,5 +1,5 @@
 
-#include "BinaryInspector.h"
+#include "durangox/BinaryInspector.h"
 
 #include <cstdint>
 #include <fstream>

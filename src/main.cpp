@@ -2,7 +2,7 @@
 #include <iostream>
 #include <string>
 
-#include "BinaryInspector.h"
+#include "durangox/BinaryInspector.h"
 
 int main(int argc, char* argv[])
 {
